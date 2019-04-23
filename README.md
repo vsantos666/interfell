@@ -9,6 +9,8 @@ On a Postgress DataBase run the nexts Scripts:
 --CREATE SCHEMA interfell
 --AUTHORIZATION postgres;
 
+--update dataBase.properties on resources with user and password for postgres
+
 2.- The aplication 
 2.1.- Please generate the war with maven and publish it on a server.
 
