@@ -1,5 +1,5 @@
 # orders
-orers for interfell
+orders for interfell
 
 1.- Data Base
 On a Postgress DataBase run the nexts Scripts:
@@ -76,3 +76,8 @@ On a Postgress DataBase run the nexts Scripts:
 --id is the id of the order
 --to is the currency that we want to change
     http://localhost:8080/b-orders/api/order/priceCalculator?id=1&to=USD
+    
+    
+ IMPORTANT-------- 
+ 
+ CHANGE FOR A VALID TOKEN ON THE FILE fixer.properties on resources folder
